@@ -166,3 +166,15 @@ input[type=submit] {
     border-radius: 4px;
     cursor: pointer;
 }
+
+.image img{
+  width:274px;
+  height:200px;
+
+}
+.image{
+  float:left;
+  margin:10px;
+  position:relative;
+
+}
